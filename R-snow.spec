@@ -4,7 +4,7 @@
 #
 Name     : R-snow
 Version  : 0.4.2
-Release  : 8
+Release  : 9
 URL      : https://cran.r-project.org/src/contrib/snow_0.4-2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/snow_0.4-2.tar.gz
 Summary  : Simple Network of Workstations
