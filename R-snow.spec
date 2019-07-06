@@ -4,7 +4,7 @@
 #
 Name     : R-snow
 Version  : 0.4.3
-Release  : 20
+Release  : 21
 URL      : https://cran.r-project.org/src/contrib/snow_0.4-3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/snow_0.4-3.tar.gz
 Summary  : Support for simple parallel computing in R.
